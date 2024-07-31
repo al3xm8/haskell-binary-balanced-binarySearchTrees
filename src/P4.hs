@@ -2,10 +2,6 @@
 {-@ LIQUID "--exact-data-cons" @-}
 
 {-
-CMSC 433 Fall 2023
-Project 4 - Binary / Balanced / Binary-Search Trees
-Perfect Score:  100 points
-
 This project asks you to implement 10 functions associated with manipulating binary trees, balanced binary trees, and binary search trees.
 
 Each function includes a textual description of what the functions should do.  In addition, many functions also contain Liquid Haskell refinement types that precisely describe the functions' intended behavior.
