@@ -2,13 +2,6 @@
 {-@ LIQUID "--higherorder" @-} 
 {-@ LIQUID "--exact-data-cons" @-}
 
-{-
-CMSC 433 Fall 2023
-Project 4 - Auxiliary list operations
-
-You may use these in your solutions if you wish. Please do not modify, however; we will use our own version of this file for grading your submission.
--}
-
 module P4Lists where
 
 -- List concatenation suitable for Liquid Haskell
